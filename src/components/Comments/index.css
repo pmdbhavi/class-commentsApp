@@ -15,12 +15,28 @@
   .container {
     flex-direction: column;
   }
+  .main-container {
+    padding: 30px;
+  }
   .img-con {
     order: 0;
-    margin: 10px;
+  }
+  .img {
+    width: 90vw;
   }
   .form {
     order: 1;
+  }
+  .hr {
+    width: 100vw;
+    margin: 0px;
+  }
+  .span {
+    margin-right: 5px;
+    border-radius: 3px;
+  }
+  .list {
+    padding-left: 0px;
   }
 }
 
